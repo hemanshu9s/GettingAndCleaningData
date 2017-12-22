@@ -23,4 +23,4 @@ Add the subject associated to each observation
 Merge the two sets
 Rewrite column names so that they are more easily understandable
 Create the data set needed step 5 and save it in "output.txt"
-More info in comments into the code
+More info in comments into the code before every line of code
